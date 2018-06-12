@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "starlightcodingassignment"
+    "default": "starlightcodingassignment",
+    "starlightcodingassignment": "starlightcodingassignment",
+    "StarLight": "starlightcodingassignment"
   }
 }
