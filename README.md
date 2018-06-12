@@ -1,4 +1,5 @@
-"# StarLightCodingAssignment" 
+--INSTALLATION INSTRUCTIONS--
+
 
 Install onto your command prompt/terminal from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
@@ -17,6 +18,7 @@ Type npm install
 After installion, type npm start
 
 The website should now be locally hosting on your computer CONGRATULATIONS!
+
 
 -------------------------------------------------------------------------------------------------------------------------
 For details on connection to Firebase, please contact me sangbp1994@gmail.com
